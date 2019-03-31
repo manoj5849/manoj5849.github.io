@@ -23,7 +23,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of things",
       "keywords": [
         "Raspberry Pi",
         "TI MSP430"
@@ -32,11 +32,25 @@
     {
       "name": "Linux",
       "keywords": [
+        "ubuntu"
+        "redhat"
+        "arch"
+        "manjaro"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Automobile",
       "keywords": [
+        "cars",
+        "vehicle"
+      ]
+    },
+    {
+      "name": "CAD",
+      "keywords": [
+        "Solidworks",
+        "Autocad",
+        "Creo"
       ]
     }
   ],
@@ -45,12 +59,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "VBA"
       ]
     },
     {
@@ -59,20 +69,18 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Vishwakarma Government Engineering College",
+      "area": "Mechanical Engineer",
+      "studyType": "B.E.",
+      "startDate": "2013",
+      "endDate": "2017",
+      "cgpa": "7.88",
       "courses": [
       ]
     }
@@ -146,8 +154,8 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Nathan Rajasingham",
+      "reference": "Employer"
     }
   ]
 }
