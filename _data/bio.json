@@ -1,39 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Manojkumar Patel",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "manojkumar8552@gmail.com",
+    "website": "https://manoj5849.github.io",
+    "summary": "I am studying for a Manufacturing Engineering Technician - Automation  at Mohawk College. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "L8R 3H4",
+      "city": "Hamilton",
+      "countryCode": "CA",
+      "region": "Canada"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "manoj5849",
+        "url": "http://github.com/manoj5849"
       }
     ]
   },
@@ -41,12 +25,12 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
+        "Raspberry Pi",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Linux",
       "keywords": [
       ]
     },
