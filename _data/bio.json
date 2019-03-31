@@ -2,7 +2,7 @@
   "basics": {
     "name": "Manojkumar Patel",
     "label": "Student",
-    "picture": "https://manoj5849.github.io/template/images/Profile_Picture.jpg",
+    "picture": "https://github.com/manoj5849/manoj5849.github.io/blob/master/images/profile_picture.jpg?raw=true",
     "email": "manojkumar8552@gmail.com",
     "website": "https://manoj5849.github.io",
     "summary": "I am studying for a Manufacturing Engineering Technician - Automation  at Mohawk College. I expect to graduate in Spring, 2019.",
@@ -26,14 +26,14 @@
       "name": "Internet of things",
       "keywords": [
         "Raspberry Pi",
-        "TI MSP430"
+        "Android"
       ]
     },
     {
       "name": "Automobile",
       "keywords": [
-        "cars",
-        "vehicle"
+        "Engine",
+        "Safety feature"
       ]
     },
     {
@@ -74,73 +74,57 @@
       "cgpa": "7.88",
       "courses": [
       ]
+    },
+    {
+      "institution": "Mohawk College",
+      "area": "Industrial Mechanic Millwright",
+      "studyType": "Diploma",
+      "startDate": "2017",
+      "endDate": "Current",
+      "cgpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Husky Energy",
+      "position": "CSR",
+      "startDate": "Nov - 2017",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, Cleaning and Securing Gas Station",
+        "Handling cash, Maintain Inventory",
+        "Dealing With Customer"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Vishwakarma Government Engineering College",
+      "website": "http://www.vgecg.ac.in",
+      "position": "Designer",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Designer for Independence day Poster",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Design poster for Independence day"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "2nd runnrer up",
+      "date": "April - 2014",
+      "awarder": "VGEC College",
+      "summary": "Designing challening contraption"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Runner up",
+      "date": "October -2016 ",
+      "awarder": "Gujarat Technological University",
+      "summary": "My team won 2nd place place in Xitij-2016."
     }
   ],
   "references": [
