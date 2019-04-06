@@ -9,7 +9,7 @@ date: 2018-04-15
 labels:
   - Inventor
   - Pack-and-Go
-summary: During CAD Course, This is my Final Project to create in Inventor and and make pack and go file.
+summary: During CAD Course, This is my Final Project in Inventor.
 ---
 
 <div class="ui small rounded images">
