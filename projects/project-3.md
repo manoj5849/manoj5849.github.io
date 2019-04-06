@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/TURNING PROJECT-01.webp
 title: Turning Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
