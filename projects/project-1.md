@@ -12,7 +12,7 @@ labels:
 summary: During CAD Course, This is my Final Project in Inventor.
 ---
 
-<div class="ui small rounded images">
+
   <img class="ui image" src="../images/Alignment-tool (1).webp">
   <img class="ui image" src="../images/Alignment-tool (2).webp">
   <img class="ui image" src="../images/Alignment-tool (3).webp">
@@ -22,7 +22,7 @@ summary: During CAD Course, This is my Final Project in Inventor.
   <img class="ui image" src="../images/Alignment-tool (7).webp">
   <img class="ui image" src="../images/Alignment-tool (8).webp">
   <img class="ui image" src="../images/Alignment-tool (9).webp">
-</div>
+
 
 
 
