@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "//i.ytimg.com/vi/Qf32qtHfowQ/maxresdefault.jpg"
+image: //i.ytimg.com/vi/Qf32qtHfowQ/maxresdefault.jpg 
 title: PLC Projects
 permalink: projects/A
 # All dates must be YYYY-MM-DD format!
