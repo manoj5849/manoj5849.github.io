@@ -15,24 +15,14 @@ summary: Documentation of my PLC Learning.
 # PLC_Projects
 
 1.Traffic Light
-![Traffic Light Demo](https://github.com/manoj5849/PLC_Projects/blob/master/P1_traffic_light.gif)
-
-
+<img class="ui image" src="https://github.com/manoj5849/PLC_Projects/blob/master/P1_traffic_light.gif">
 
 2.Cylinder A+A-
-![A+A-](https://github.com/manoj5849/PLC_Projects/blob/master/P2._A+A-.gif)
-
-
+<img class="ui image" src="https://github.com/manoj5849/PLC_Projects/blob/master/P2._A+A-.gif">
 
 3.Cylinder A+B+A-B-
-
-
-![A+B+A-B-](https://github.com/manoj5849/PLC_Projects/blob/master/P3_A+B+A-B-.gif)
-
+<img class="ui image" src="https://github.com/manoj5849/PLC_Projects/blob/master/P3_A+B+A-B-.gif">
 
 4.Cylinder A+B+C+A-B-C-
-
-
-
-![A+B+C+A-B-C-](https://github.com/manoj5849/PLC_Projects/blob/master/P4_A+B+C+A-B-C-.gif)
+<img class="ui image" src="https://github.com/manoj5849/PLC_Projects/blob/master/P4_A+B+C+A-B-C-.gif">
 
