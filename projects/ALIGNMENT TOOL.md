@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Alignment-tool (1).webp
 title: ALIGNMENT TOOL
-permalink: projects/A
+permalink: projects/V
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15
 labels:
